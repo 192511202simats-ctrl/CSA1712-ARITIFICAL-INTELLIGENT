@@ -1,4 +1,4 @@
-**11. Map Coloring using CSP**
+**Experiment 11: Map Coloring using CSP**
 
 **Aim**
 
