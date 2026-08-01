@@ -1,4 +1,4 @@
-**14. Alpha-Beta Pruning Algorithm**
+**Experiment 14: Alpha-Beta Pruning Algorithm**
 
 **Aim**
 
