@@ -1,4 +1,4 @@
-**12. Tic Tac Toe Game (Python)**
+**Experiment 12: Tic Tac Toe Game (Python)**
 
 **Aim**
 
