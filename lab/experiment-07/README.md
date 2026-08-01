@@ -1,4 +1,4 @@
-**7. Breadth First Search (BFS)**
+**Experiment 7: Breadth First Search (BFS)**
 
 **Aim**
 
