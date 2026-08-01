@@ -1,4 +1,4 @@
-**15. Decision Tree**
+**Experiment 15: Decision Tree**
 
 **Aim**
 
