@@ -1,4 +1,4 @@
-**13. Minimax Algorithm for Gaming**
+**Experiment 13: Minimax Algorithm for Gaming**
 **Aim**
 
 To implement the Minimax algorithm using Python.
