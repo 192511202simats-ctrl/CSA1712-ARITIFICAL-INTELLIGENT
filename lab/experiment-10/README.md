@@ -1,4 +1,4 @@
-**4. A'*' Algorithm**
+**Experiment 10: A'*' Algorithm**
 
 **Aim**
 
