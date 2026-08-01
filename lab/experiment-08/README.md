@@ -1,4 +1,4 @@
-**8. Depth First Search (DFS)**
+**Experiment 8: Depth First Search (DFS)**
 
 **Aim**
 
