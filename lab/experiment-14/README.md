@@ -71,6 +71,10 @@ print(alphabeta(0, -999, 999, True))
 ```
 3
 ```
+**screenshot**
+
+<img width="1913" height="1017" alt="image" src="https://github.com/user-attachments/assets/554784d0-1b13-4434-b792-93ab168a22d5" />
+
 **Result**
 
 The optimal value was obtained using Alpha-Beta pruning.
