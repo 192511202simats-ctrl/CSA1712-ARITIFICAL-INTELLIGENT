@@ -118,6 +118,11 @@ for row in board:
 [0, 1, 0, 0, 0, 0, 0, 0]
 [0, 0, 0, 1, 0, 0, 0, 0]
 ```
+
+**screenshot**
+
+<img width="1902" height="996" alt="image" src="https://github.com/user-attachments/assets/3d38eb8f-4f6b-4584-9074-d46d696a2829" />
+
 **Result**
 
 The 8 Queen Problem was solved successfully using the Backtracking algorithm.
