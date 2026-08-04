@@ -94,6 +94,11 @@ while queue:
 BFS Traversal:
 A B C D E F
 ```
+**screenshot**
+
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/7b53efe5-4047-496e-b253-97a10591843e" />
+
+
 **Result**
 
 The graph was successfully traversed using the BFS algorithm.
