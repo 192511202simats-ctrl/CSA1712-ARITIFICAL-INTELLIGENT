@@ -102,6 +102,10 @@ B : Green
 C : Blue
 D : Red
 ```
+**screenshot**
+
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/2e1863a4-58af-433a-b5e4-35adcef72ec0" />
+
 **Result**
 
 All regions were successfully colored without violating adjacency constraints.
