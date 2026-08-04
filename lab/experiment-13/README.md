@@ -58,6 +58,10 @@ print("Optimal Value:", minimax(0, True))
 ```
 Optimal Value: 3
 ```
+**screenshot**
+
+<img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/6588e0af-5e61-4b23-9927-48685683a687" />
+
 **Result**
 
 The optimal move value was computed successfully.
