@@ -70,6 +70,10 @@ for p in permutations(range(10),8):
 Solution:
 9567 + 1085 = 10652
 ```
+**screenshot**
+
+<img width="1910" height="990" alt="image" src="https://github.com/user-attachments/assets/345fa971-93fa-4a19-91e8-f5a8d059de18" />
+
 **Result**
 
 The crypt-arithmetic puzzle was solved successfully.
