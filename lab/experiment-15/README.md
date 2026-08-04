@@ -55,6 +55,10 @@ print(model.predict([[1.5]]))
 ```
 [0]
 ```
+**screenshot**
+
+<img width="1916" height="1016" alt="image" src="https://github.com/user-attachments/assets/79d5d74a-27b2-4e1b-9107-833b64f7fc47" />
+
 **Result**
 
 The Decision Tree classifier successfully predicted the class label.
