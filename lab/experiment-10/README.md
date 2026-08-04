@@ -103,6 +103,10 @@ print("Shortest Path:", astar('A', 'F'))
 Shortest Path:
 ['A', 'B', 'E', 'F']
 ```
+**screenshot**
+
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/6cabdfd7-f42e-44a6-847c-16f730bee57d" />
+
 **Result**
 
 The shortest path was successfully found using the A* algorithm.
