@@ -73,6 +73,10 @@ dfs('A')
 DFS Traversal:
 A B D E F C
 ```
+**screenshot**
+
+<img width="1916" height="1017" alt="image" src="https://github.com/user-attachments/assets/bacc744e-64fa-4fd4-81f6-28a3df0d084d" />
+
 **Result**
 
 The graph was successfully traversed using the DFS algorithm.
