@@ -81,12 +81,16 @@ display()
 ```
 **Output**
 ```
-X | O | X
+  |   | 
 --+---+--
-O | X | O
+  |   | 
 --+---+--
-X |   |
+  |   |
 ```
+**screenshot**
+
+<img width="1913" height="1011" alt="image" src="https://github.com/user-attachments/assets/101029ac-922f-484a-8287-341a84c7727b" />
+
 **Result**
 
 The Tic Tac Toe game was implemented successfully.
