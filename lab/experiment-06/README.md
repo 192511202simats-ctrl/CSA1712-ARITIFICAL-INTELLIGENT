@@ -74,6 +74,11 @@ Final Room Status
 A = Clean
 B = Clean
 ```
+**screenshot**
+
+<img width="1908" height="1010" alt="image" src="https://github.com/user-attachments/assets/37ffbff9-2bd2-49f7-942d-9e1e7b614545" />
+
+
 **Result**
 
 The vacuum cleaner agent successfully cleaned all dirty rooms.
