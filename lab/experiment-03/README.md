@@ -91,6 +91,11 @@ Steps:
 (3, 3)
 (4, 2)
 ```
+
+**screenshot**
+
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/9aba3365-8fc6-4dd6-9473-ee72ead6c52c" />
+
 **Result**
 
 The required amount of water was obtained successfully.
