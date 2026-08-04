@@ -103,6 +103,10 @@ Solution Path
 ...
 (0,0,0)
 ```
+
+**screenshot**
+<img width="1907" height="1023" alt="image" src="https://github.com/user-attachments/assets/3be8a18e-718c-438a-840a-30333cab8b59" />
+
 **Result**
 
 All missionaries and cannibals crossed the river safely.
