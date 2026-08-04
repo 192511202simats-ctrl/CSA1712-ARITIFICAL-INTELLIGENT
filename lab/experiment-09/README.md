@@ -47,7 +47,9 @@ Update Cost    Next Route
 Repeat      Display Result
                |
               End
-Python Code
+```
+**Python Code**
+```
 from itertools import permutations
 
 graph = [
@@ -81,6 +83,10 @@ print("Minimum Cost:", min_cost)
 Best Path: [0, 1, 3, 2, 0]
 Minimum Cost: 80
 ```
+**screenshot**
+
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/4896dab6-8580-4132-886d-3615b786d62a" />
+
 **Result**
 
 The shortest route and minimum travel cost were obtained.
