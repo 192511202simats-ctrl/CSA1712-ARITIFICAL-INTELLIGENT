@@ -151,6 +151,10 @@ Solution Steps:
 [4, 5, 6]
 [7, 8, 0]
 ```
+**Screenshot**
+
+<img width="1912" height="987" alt="Screenshot 2026-08-04 082741" src="https://github.com/user-attachments/assets/4150a646-a864-4d0d-8e98-0e49a7a11f14" />
+
 
 **Result**
 
