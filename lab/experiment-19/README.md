@@ -62,6 +62,9 @@ Enter student name: Arun
 Teacher = Ravi
 Subject Code = CS101
 ```
+**screenshot**
+<img width="1916" height="1011" alt="image" src="https://github.com/user-attachments/assets/ded6e722-64aa-4046-a74e-8ae4e17b93c4" />
+
 **Result**
 
 The student-teacher-subject database was successfully implemented.
