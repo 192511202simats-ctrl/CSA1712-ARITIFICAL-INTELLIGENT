@@ -75,6 +75,10 @@ Monkey climbs box
 Monkey grabs banana
 Goal achieved
 ```
+**Screenshot**
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/7123e94c-40ae-4b2e-a187-4198a1090c12" />
+
+
 
 **RESULT**
 
