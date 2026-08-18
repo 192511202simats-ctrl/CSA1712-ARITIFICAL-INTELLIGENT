@@ -64,6 +64,9 @@ Enter text: Artificial Intelligence
 Enter pattern: Intelligence
 Pattern found at position: 11
 ```
+**Screenshot**
+<img width="1915" height="1016" alt="image" src="https://github.com/user-attachments/assets/e6b8acd3-4a23-4132-a77a-56b36e2fd62b" />
+
 
 **RESULT**
 
