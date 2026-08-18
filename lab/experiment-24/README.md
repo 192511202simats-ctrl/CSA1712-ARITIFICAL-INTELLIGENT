@@ -63,6 +63,9 @@ else:
 Enter disease: anemia
 Diet suggestion: Eat iron-rich foods
 ```
+**Screenshot**
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/dc48b969-604c-4d21-be46-1f9462508f4f" />
+
 
 **RESULT**
 
