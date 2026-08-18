@@ -71,6 +71,9 @@ print("Number of vowels:", count)
 Enter a string: Artificial Intelligence
 Number of vowels: 10
 ```
+**Screenshot**
+<img width="1916" height="1018" alt="image" src="https://github.com/user-attachments/assets/d36cbf97-3abb-4bf5-a0e5-11d5016b5ac7" />
+
 
 **RESULT**
 
