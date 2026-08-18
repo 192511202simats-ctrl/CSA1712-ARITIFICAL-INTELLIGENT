@@ -69,6 +69,9 @@ Enter person name: kiran
 Parents: ['arun', 'meena']
 Children: []
 ```
+**Screenshot**
+![Uploading image.png…]()
+
 
 **RESULT**
 
