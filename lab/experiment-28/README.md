@@ -70,6 +70,9 @@ Enter symptoms: fever,cough,body pain
 Possible condition: flu
 This is only an educational result.
 ```
+**Screenshot**
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/39b2a8ea-0e31-4c23-8b58-81c572476a9e" />
+
 
 **RESULT**
 
