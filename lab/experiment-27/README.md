@@ -101,6 +101,9 @@ print("Path:", " -> ".join(path))
 ```
 Path: A -> B -> E -> G
 ```
+**Screenshot**
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/21b15529-be11-4c0c-9f30-24a4059b4948" />
+
 
 **RESULT**
 
