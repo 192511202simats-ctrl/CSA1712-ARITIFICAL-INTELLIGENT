@@ -68,6 +68,9 @@ Move disk from B to A
 Move disk from B to C
 Move disk from A to C
 ```
+**Screenshot**
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/9ad786f6-110e-43d7-bdf2-c3be05c285f3" />
+
 
 **RESULT**
 
