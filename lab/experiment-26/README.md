@@ -77,6 +77,9 @@ else:
 Enter fruit: banana
 Color: yellow
 ```
+**Screenshot**
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/bb11ae34-47a6-4cb7-b619-8c1670f9e0a3" />
+
 
 **RESULT**
 
