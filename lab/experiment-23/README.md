@@ -70,7 +70,8 @@ Parents: ['arun', 'meena']
 Children: []
 ```
 **Screenshot**
-![Uploading image.png…]()
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/5d20cee9-8892-495a-a0b5-47f0f258dd1b" />
+
 
 
 **RESULT**
