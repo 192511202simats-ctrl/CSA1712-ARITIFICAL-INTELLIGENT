@@ -83,6 +83,9 @@ Derived: drive_carefully
 Enter query: slippery
 Query is TRUE
 ```
+**Screenshot**
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/2b6f1518-be34-485a-9166-e5ed73029d29" />
+
 
 **RESULT**
 
