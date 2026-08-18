@@ -61,6 +61,9 @@ else:
 Enter bird name: eagle
 eagle can fly
 ```
+**Screenshot**
+<img width="1916" height="1020" alt="image" src="https://github.com/user-attachments/assets/e40ba827-e950-414e-a201-118ae08ad52e" />
+
 
 **RESULT**
 
