@@ -81,6 +81,9 @@ else:
 Enter goal: drive_carefully
 Goal can be proved
 ```
+**Screenshot**
+<img width="1916" height="1010" alt="image" src="https://github.com/user-attachments/assets/91151a29-1f4c-4e79-bae7-3c2c76891f6a" />
+
 
 **RESULT**
 
